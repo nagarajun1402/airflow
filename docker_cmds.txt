@@ -1,0 +1,2 @@
+to log into container bash as root user
+docker exec -u root -it airflow-airflow-worker-1 /bin/bash
